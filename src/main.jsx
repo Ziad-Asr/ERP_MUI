@@ -11,7 +11,7 @@ import {
 import App from "./App";
 import Dashboard from "./pages/dashboard/Dashboard";
 import Team from "./pages/team/Team";
-import Contacts from "./pages/cantacts/Contacts";
+import Contacts from "./pages/contacts/Contacts";
 import Invoices from "./pages/invoices/Invoices";
 import Form from "./pages/form/Form";
 import Calendar from "./pages/calendar/Calendar";
